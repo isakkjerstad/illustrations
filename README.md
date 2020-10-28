@@ -1,2 +1,2 @@
 # Illustrations
-This repository contains custom made illustrations and photos you can use as you might wish, according to the provided licence.
+This repository contains custom made illustrations and photos. You may use all the content as you might wish, according to the provided licence.
